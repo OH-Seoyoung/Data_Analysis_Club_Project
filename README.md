@@ -22,8 +22,8 @@ Activities in data analysis club - Programming Assignment
 
 ## Assignment 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset (20200814)
 ### Dataset  
-[1] [Pokemon with stats] https://www.kaggle.com/abcsds/pokemon  
-[2] [Pokemon Image Dataset] https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types  
+- [Pokemon with stats] https://www.kaggle.com/abcsds/pokemon  
+- [Pokemon Image Dataset] https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types  
 
 ### Pokemon generation with **GANs**
 - Vanilla GAN with Keras
@@ -34,4 +34,4 @@ Activities in data analysis club - Programming Assignment
 
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 ### Competition
-[1] [Predict Future Sales] https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+- [Predict Future Sales] https://www.kaggle.com/c/competitive-data-science-predict-future-sales
