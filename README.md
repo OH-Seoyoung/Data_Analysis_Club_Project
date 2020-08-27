@@ -35,3 +35,13 @@ Activities in data analysis club - Programming Assignment
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 ### Competition
 - [Predict Future Sales] https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+
+### Predict future sales with **LSTM**
+- RMSE error : 1.02245 (10 iterations), 1.02711 (60 iterations)  
+
+### Predict future sales with **XGBRegressor**
+- RMSE error : 1.43613  
+
+[[code_LSTM]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb)  
+[[code_XGB]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)  
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf)  
