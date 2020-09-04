@@ -10,7 +10,8 @@ Activities in data analysis club - Programming Assignment
 ## Assignment 1. Supervised Learning : MNIST Handwriting Recognition (20200529)
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment1_MNIST_handwriting_recognition/assignment%201.jpg"  width="500" height="380">  
 
-[[code_SLP]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/1_SLP_with_MNIST.ipynb) __ [[code_MLP]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/2_MLP_with_MNIST.ipynb)  
+[[code_SLP]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/1_SLP_with_MNIST.ipynb)  
+[[code_MLP]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/2_MLP_with_MNIST.ipynb)  
 [[Presentation]](My_Assignment/Assignment1_MNIST_handwriting_recognition/20200529_assignment1.pdf)
 
 ## Assignment 2. Unsupervised Learning : IRIS data Clustering (20200723)
