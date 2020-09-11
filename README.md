@@ -1,4 +1,4 @@
-# Data_Analysis_Club_Project (20200514 ~)
+# Data_Analysis_Club_Assignment (20200514 ~)
 Activities in data analysis club - Programming Assignment
 
 ## Description
