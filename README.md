@@ -6,6 +6,7 @@ Activities in data analysis club - Programming Assignment
 > 2. Unsupervised Learning : IRIS data Clustering
 > 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset  
 > 4. Kaggle Competition : Predict Future Sales  
+> 5. Kaggle Competition : Plant Seedlings Classification  
 
 ## Assignment 1. Supervised Learning : MNIST Handwriting Recognition (20200529)
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment1_MNIST_handwriting_recognition/assignment%201.jpg"  width="500" height="380">  
