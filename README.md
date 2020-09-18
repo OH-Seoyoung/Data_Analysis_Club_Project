@@ -48,4 +48,20 @@ Activities in data analysis club - Programming Assignment
 
 [[code_LSTM]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb)  
 [[code_XGB]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)  
-[[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf)  
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf) 
+
+## Assignment 5. Kaggle Competition : Plant Seedlings Classification (20200918)  
+#### This project was maintained by 오서영, 허지혜
+### Competition
+- [Plant Seedlings Classification], https://www.kaggle.com/c/plant-seedlings-classification/overview  
+
+### Architecture  
+#### 1. Baseline CNN  
+- Train accuracy: 72.50%, Val accuracy: 69.38%  
+
+#### 2. Resnet  
+- Train accuracy: 86.25%, Val accuracy: 80%  
+
+[[code_CNN]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_CNN.ipynb)  
+[[code_Resnet]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_Resnet.ipynb)  
+[[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/20200918_assignment5.pdf)  
