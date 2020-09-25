@@ -2,6 +2,7 @@
 Activities in data analysis club - Programming Assignment
 
 ## Description
+> 0. Python Quiz for newcomer  [[Quizs]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/tree/master/Assignment_for_newcomer)
 > 1. Supervised Learning : MNIST Handwriting Recognition
 > 2. Unsupervised Learning : IRIS data Clustering
 > 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset  
