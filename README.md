@@ -17,7 +17,7 @@ Activities in data analysis club - Programming Assignment
 [[Presentation]](My_Assignment/Assignment1_MNIST_handwriting_recognition/20200529_assignment1.pdf)
 
 ## Assignment 2. Unsupervised Learning : IRIS data Clustering (20200723)
-#### This project was maintained by 최연석, 오서영  
+#### This project was maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment2_IRIS_Clustering/assignment%202.jpg"  width="500" height="380">  
 
 [[code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb)  
@@ -37,7 +37,7 @@ Activities in data analysis club - Programming Assignment
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/20200814_assignment3.pdf)
 
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
-#### This project was maintained by 최연석, 오서영  
+#### This project was maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 ### Competition
 - [Predict Future Sales] https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
@@ -53,7 +53,7 @@ Activities in data analysis club - Programming Assignment
 [[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf) 
 
 ## Assignment 5. Kaggle Competition : Plant Seedlings Classification (20200918)  
-#### This project was maintained by 오서영, 허지혜
+#### This project was maintained by 오서영, [허지혜](https://github.com/jihyeheo)
 ### Competition
 - [Plant Seedlings Classification], https://www.kaggle.com/c/plant-seedlings-classification/overview  
 
