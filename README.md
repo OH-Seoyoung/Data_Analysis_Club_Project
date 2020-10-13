@@ -26,9 +26,10 @@ Activities in data analysis club - Programming Assignment
 
 ## Assignment 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset (20200814)
 ### Dataset  
-- [Pokemon with stats] https://www.kaggle.com/abcsds/pokemon  
-- [Pokemon Image Dataset] https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types  
-
+```
+[1] Pokemon with stats, https://www.kaggle.com/abcsds/pokemon  
+[2] Pokemon Image Dataset, https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types  
+```
 ### Pokemon generation with **GANs**
 - Vanilla GAN with Keras
 - Convert RGBA to RGB (PNG to JPG)
@@ -39,7 +40,7 @@ Activities in data analysis club - Programming Assignment
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 ### Competition
-- [Predict Future Sales] https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+- [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 ### Architecture
 #### 1. LSTM
@@ -55,7 +56,7 @@ Activities in data analysis club - Programming Assignment
 ## Assignment 5. Kaggle Competition : Plant Seedlings Classification (20200918)  
 #### This project is maintained by 오서영, [허지혜](https://github.com/jihyeheo)
 ### Competition
-- [Plant Seedlings Classification], https://www.kaggle.com/c/plant-seedlings-classification/overview  
+- [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)  
 
 ### Architecture  
 #### 1. Baseline CNN  
