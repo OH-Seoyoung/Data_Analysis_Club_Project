@@ -42,11 +42,12 @@ Activities in data analysis club - Programming Assignment
 ### Competition : [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)  
 
 ### Results  
-#### 1. LSTM
-- RMSE error : 1.02245 (10 iterations), 1.02711 (60 iterations)  
+#### 1. LSTM  
+RMSE error : 1.02245 (10 iterations)  
+RMSE error : 1.02711 (60 iterations)  
 
 #### 2. XGBRegressor
-- RMSE error : 1.43613  
+RMSE error : 1.43613  
 
 [[LSTM Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb)  
 [[XGB Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)  
@@ -58,10 +59,12 @@ Activities in data analysis club - Programming Assignment
 
 ### Results  
 #### 1. Baseline CNN  
-- Train accuracy: 72.50%, Val accuracy: 69.38%  
+Train accuracy: 72.50%  
+Val accuracy: 69.38%    
 
 #### 2. Resnet  
-- Train accuracy: 86.25%, Val accuracy: 80%  
+Train accuracy: 86.25%  
+Val accuracy: 80%    
 
 [[CNN Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_CNN.ipynb)  
 [[Resnet Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_Resnet.ipynb)  
