@@ -39,8 +39,7 @@ Activities in data analysis club - Programming Assignment
 
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
-### Competition
-- [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+### Competition : [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)  
 
 ### Architecture
 #### 1. LSTM
@@ -55,8 +54,7 @@ Activities in data analysis club - Programming Assignment
 
 ## Assignment 5. Kaggle Competition : Plant Seedlings Classification (20200918)  
 #### This project is maintained by 오서영, [허지혜](https://github.com/jihyeheo)
-### Competition
-- [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)  
+### Competition : [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)    
 
 ### Architecture  
 #### 1. Baseline CNN  
