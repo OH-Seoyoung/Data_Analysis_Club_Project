@@ -41,7 +41,7 @@ Activities in data analysis club - Programming Assignment
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 ### Competition : [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)  
 
-### Architecture
+### Results  
 #### 1. LSTM
 - RMSE error : 1.02245 (10 iterations), 1.02711 (60 iterations)  
 
@@ -56,7 +56,7 @@ Activities in data analysis club - Programming Assignment
 #### This project is maintained by 오서영, [허지혜](https://github.com/jihyeheo)
 ### Competition : [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)    
 
-### Architecture  
+### Results  
 #### 1. Baseline CNN  
 - Train accuracy: 72.50%, Val accuracy: 69.38%  
 
