@@ -19,7 +19,7 @@ Activities in data analysis club - Programming Assignment
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment2_IRIS_Clustering/assignment%202.jpg"  width="500" height="380">  
 
-[[Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb | [[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf)
+[[Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb) | [[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf)
 
 
 ## Assignment 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset (20200814)
