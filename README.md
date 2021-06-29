@@ -12,15 +12,15 @@ Activities in data analysis club - Programming Assignment
 ## Assignment 1. Supervised Learning : MNIST Handwriting Recognition (20200529)
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment1_MNIST_handwriting_recognition/assignment%201.jpg"  width="500" height="380">  
 
-[Presentation](My_Assignment/Assignment1_MNIST_handwriting_recognition/20200529_assignment1.pdf) | [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/1_SLP_with_MNIST.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/2_MLP_with_MNIST.ipynb) | 
+[Presentation](My_Assignment/Assignment1_MNIST_handwriting_recognition/20200529_assignment1.pdf) | [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/1_SLP_with_MNIST.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/2_MLP_with_MNIST.ipynb)
 
 
 ## Assignment 2. Unsupervised Learning : IRIS data Clustering (20200723)
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment2_IRIS_Clustering/assignment%202.jpg"  width="500" height="380">  
 
-[[Code]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb) | [[Presentation]](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf)
-
+| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf) | 
+[Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb)
 
 ## Assignment 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset (20200814)
 ### Dataset  
@@ -30,9 +30,10 @@ Activities in data analysis club - Programming Assignment
 ```
 ### Pokemon generation with **GANs**
 - Vanilla GAN with Keras
-- Convert RGBA to RGB (PNG to JPG)
+- Convert RGBA to RGB (PNG to JPG)  
+
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/20200814_assignment3.pdf) | 
-[Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/Pokemon_image_generation_with_GANs.ipynb) |
+[Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/Pokemon_image_generation_with_GANs.ipynb)
 
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
