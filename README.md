@@ -23,6 +23,9 @@ Activities in data analysis club - Programming Assignment
 [Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb)
 
 ## Assignment 3. Kaggle Tutorial : DA and ML with POKEMON stat & image dataset (20200814)
+| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/20200814_assignment3.pdf) | 
+[Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/Pokemon_image_generation_with_GANs.ipynb)
+
 ### Dataset  
 ```
 [1] Pokemon with stats, https://www.kaggle.com/abcsds/pokemon  
@@ -32,11 +35,11 @@ Activities in data analysis club - Programming Assignment
 - Vanilla GAN with Keras
 - Convert RGBA to RGB (PNG to JPG)  
 
-| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/20200814_assignment3.pdf) | 
-[Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/Pokemon_image_generation_with_GANs.ipynb)
-
 ## Assignment 4. Kaggle Competition : Predict Future Sales (20200828)
 #### This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영  
+| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf) | 
+[Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)  
+
 ### Competition
 ```
 [1] Predict Future Sales, https://www.kaggle.com/c/competitive-data-science-predict-future-sales
@@ -50,12 +53,10 @@ RMSE error : 1.02711 (60 iterations)
 #### 2. XGBRegressor
 RMSE error : 1.43613  
 
-| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf) | 
-[Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)  
-
-
 ## Assignment 5. Kaggle Competition : Plant Seedlings Classification (20200918)  
 #### This project is maintained by 오서영, [허지혜](https://github.com/jihyeheo)
+| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/20200918_assignment5.pdf) |  [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_CNN.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_Resnet.ipynb)  
+
 ### Competition
 ```
 [1] Plant Seedlings Classification, https://www.kaggle.com/c/plant-seedlings-classification/overview
@@ -69,6 +70,4 @@ Val accuracy: 69.38%
 #### 2. Resnet  
 Train accuracy: 86.25%  
 Val accuracy: 80%    
-
-| [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/20200918_assignment5.pdf) |  [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_CNN.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_Resnet.ipynb)  
 
