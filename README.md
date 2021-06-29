@@ -11,14 +11,16 @@
 > 5. Kaggle Competition : Plant Seedlings Classification  
 
 ## Assignment 1. Supervised Learning : MNIST Handwriting Recognition
-- May. 29, 2020
+- May. 29, 2020  
+
 [Presentation](My_Assignment/Assignment1_MNIST_handwriting_recognition/20200529_assignment1.pdf) | [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/1_SLP_with_MNIST.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment1_MNIST_handwriting_recognition/2_MLP_with_MNIST.ipynb)
 
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment1_MNIST_handwriting_recognition/assignment%201.jpg"  width="500" height="380">  
 
 ## Assignment 2. Unsupervised Learning : IRIS data Clustering
 - This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영 
-- Jul. 23, 2020
+- Jul. 23, 2020  
+
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf) | 
 [Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb)
 
@@ -26,7 +28,7 @@
 <img src="https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/BASELINE_code/Assignment2_IRIS_Clustering/assignment%202.jpg"  width="500" height="380">  
 
 ## Assignment 3. Kaggle Tutorial : DA and ML with POKEMON stat & image dataset
-- Aug. 14, 2020
+- Aug. 14, 2020  
 
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/20200814_assignment3.pdf) | 
 [Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment3_Data_Analysis_and_Machine_Learning_with_POKEMON_stat%26image_dataset/Pokemon_image_generation_with_GANs.ipynb)
@@ -43,7 +45,8 @@
 
 ## Assignment 4. Kaggle Competition : Predict Future Sales
 - This project is maintained by [최연석](https://github.com/YeonSeok-Choi), 오서영
-- Aug. 28, 2020
+- Aug. 28, 2020  
+
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/20200828_assignment4.pdf) | 
 [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_LSTM.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment4_Predict_Future_Sales/Predict_Future_Sales_with_Simple_Xgboost.ipynb)
 
@@ -63,7 +66,7 @@ RMSE error : 1.43613
 
 ## Assignment 5. Kaggle Competition : Plant Seedlings Classification
 - This project is maintained by 오서영, [허지혜](https://github.com/jihyeheo)
-- Sep. 18, 2020
+- Sep. 18, 2020  
 
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/20200918_assignment5.pdf) |  [Code1](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_CNN.ipynb), [Code2](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment5_Plant_Seedlings_Classification/Plant_Seedlings_Classification_with_Resnet.ipynb)
 
