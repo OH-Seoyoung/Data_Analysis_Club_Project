@@ -22,7 +22,7 @@ Activities in data analysis club - Programming Assignment
 | [Presentation](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/20200723_assignment2.pdf) | 
 [Code](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/blob/master/My_Assignment/Assignment2_IRIS_Clustering/IRIS_Clustering_with_AgglomerativeClustering.ipynb)
 
-## Assignment 3. Kaggle Tutorial : Data Analysis and Machine Learning with POKEMON stat & image dataset (20200814)
+## Assignment 3. Kaggle Tutorial : DA and ML with POKEMON stat & image dataset (20200814)
 ### Dataset  
 ```
 [1] Pokemon with stats, https://www.kaggle.com/abcsds/pokemon  
