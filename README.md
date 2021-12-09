@@ -1,6 +1,6 @@
 # Data Analysis Club Assignment
 - Activities in data analysis club - Programming Assignment
-- May 14, 2020 ~ Present
+- May 14, 2020 ~ Dec 1, 2021
 
 ## Description
 > 0. Python Quiz for newcomer | [Quizs](https://github.com/OH-Seoyoung/Data_Analysis_Club_Assignment/tree/master/Assignment_for_newcomer)
